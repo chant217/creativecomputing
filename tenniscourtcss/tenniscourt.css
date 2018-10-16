@@ -1,0 +1,117 @@
+body{
+	background-color: white;
+	width: 750px;
+	height: 750px;
+}
+
+.square{
+	background-color: black;
+	width: 100px;
+	height: 349px;
+	margin-right: 1px;
+	float: left;
+	margin-top: 1px;
+}
+
+.square4{
+	background-color: black;
+	width: 100px;
+	height: 349px;
+	margin-left: 603px;
+	float: left;
+	position: absolute;
+	margin-top: 1px;
+	margin-right: 1px;
+}
+
+.square2{
+	background-color: black;
+	width: 501px;
+	height: 98px;
+	float: left;
+	margin-left: 101px;
+	margin-right: 1px;
+	margin-top: 1px;
+	position: absolute;
+}
+
+.square3{
+	background-color: black;
+	width: 250px;
+	height: 250px;
+	margin-left: 101px;
+	margin-right: 1px;
+	margin-top: 100px;
+	float: left;
+	position: absolute;
+}
+
+#square3a{
+	background-color: black;
+	width: 250px;
+	height: 250px;
+	margin-left: 352px;
+	margin-right: 1px;
+	margin-top: 100px;
+	float: left;
+	position: absolute;
+}
+
+.square5{
+	background-color: black;
+	width: 100px;
+	height: 349px;
+	margin-right: 1px;
+	float: left;
+	margin-top: 351px;
+	position: absolute;
+}	
+
+.square6{
+	background-color: black;
+	width: 501px;
+	height: 98px;
+	float: left;
+	margin-left: 101px;
+	margin-right: 1px;
+	margin-top: 351px;
+	position: absolute;
+}
+
+.square7{
+	background-color: black;
+	width: 250px;
+	height: 250px;
+	margin-left: 101px;
+	margin-right: 1px;
+	margin-top: 450px;
+	float: left;
+	position: absolute;
+}
+
+#square7a{
+	background-color: black;
+	width: 250px;
+	height: 250px;
+	margin-left: 352px;
+	margin-right: 1px;
+	margin-top: 450px;
+	float: left;
+	position: absolute;
+}
+
+.square8{
+	background-color: black;
+	width: 100px;
+	height: 349px;
+	margin-left: 603px;
+	float: left;
+	position: absolute;
+	margin-top: 351px;
+	margin-right: 1px;
+}
+
+
+
+
+
